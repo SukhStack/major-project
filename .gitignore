@@ -1,0 +1,31 @@
+# Python virtual environment
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ML model files
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Dataset files
+archive/
+*.csv
+
+# Logs & temp
+*.log
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
