@@ -14,7 +14,8 @@ __pycache__/
 !pneumonia_model.h5
 !hate_speech_model.pkl
 
-
+hate-speech/
+pneumonia-decetion/
 archive/
 *.csv
 
